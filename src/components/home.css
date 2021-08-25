@@ -1,0 +1,16 @@
+  
+.product-container{
+    display: flex;
+    justify-content: space-evenly;
+    padding-top: 4rem;
+}
+.shopping-cart-home{
+    position: fixed;
+    bottom: 12rem;
+    right: 12rem;
+    height: 3rem;
+    width: 3rem;
+    border-radius: 50%;
+    border: none;
+    background-color: pink
+}
